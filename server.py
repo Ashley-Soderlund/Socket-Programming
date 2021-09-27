@@ -1,3 +1,8 @@
+# Programmer: Ashley Soderlund
+# Program Description: Creating a server socket which can be connected to by three different clients at a given time.
+# Date: 9/23/21
+# Last Changed: 9/27/21
+
 import socket
 
 #  creating the server socket using default par (ipv4, TCP)
