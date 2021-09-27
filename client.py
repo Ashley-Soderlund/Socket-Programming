@@ -1,3 +1,8 @@
+# Programmer: Ashley Soderlund
+# Program Description: Creating a client socket which connects to a server socket.
+# Date: 9/23/21
+# Last Changed: 9/27/21
+
 import socket
 
 # creating the client socket using default par (ipv4, TCP)
