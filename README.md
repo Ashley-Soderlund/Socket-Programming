@@ -1,5 +1,3 @@
-# Socket-Programming
-
 # Client-Server Socket Communication 
 
 - Created using Python 3.9.5 and socket library. 
